@@ -1,6 +1,6 @@
 <h1 align="center">NLW Setup</h1>
 
-## ✨ Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
